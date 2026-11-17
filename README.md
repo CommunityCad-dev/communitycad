@@ -43,7 +43,7 @@ The full explanation, including how creators get paid, is in the docs: **[Why Co
 
 CommunityCAD is built and run by one person. I have a background in electrical and computer engineering and I'm currently in grad school for ECE, so this isn't being built blind: I design the system, review the code and understand what ships.
 
-Most of the code, tests and docs are written with the assistance of [Claude Code](https://www.anthropic.com/claude-code), Anthropic's AI coding assistant. It's what lets one engineer build and run something this size. I'd rather say so up front than have anyone find out later.
+Most of the code, tests and docs are written with the assistance of [Claude Code](https://claude.com/product/claude-code), Anthropic's AI coding assistant. It's what lets one engineer build and run something this size. I'd rather say so up front than have anyone find out later.
 
 What that means in practice:
 
