@@ -39,4 +39,17 @@ The CommunityCAD website and service are not open source. The tools that bring C
 
 The full explanation, including how creators get paid, is in the docs: **[Why CommunityCAD isn't open source](https://communitycad.dev/docs/communitycad/open-source)**.
 
+## How CommunityCAD is built, and how AI is used
+
+CommunityCAD is built and run by one person, and I use AI heavily to do it. Most of the code, tests and docs are written with [Claude](https://www.anthropic.com/claude), Anthropic's AI assistant, working alongside me. Without it, one developer couldn't build and run something this size. I'd rather say so up front than have anyone find out later.
+
+What that means in practice:
+
+- **I decide what gets built.** The plan, the priorities, and anything involving money, legal terms or partnerships are my calls.
+- **I'm responsible for every change.** Work is tested before it ships, and if something is wrong, that's on me, not the tool.
+- **AI helps run this tracker.** Labelling new issues, spotting duplicates and keeping the roadmap up to date are done with Claude's help.
+- **The open-source tools are built the same way.** Hopper and the MCP server are developed with Claude too, and their source is there for anyone to read and check.
+
+I know many people in open source are wary of AI-written code, and I understand why. My reason is simple: I want CommunityCAD to be useful to people and to give something back to the open hardware community, and this is the way I know how to do that. If something looks wrong, open an issue. That's what this tracker is for.
+
 Being closed source is exactly why this tracker is public: you can see what we're working on and tell us what you need.
