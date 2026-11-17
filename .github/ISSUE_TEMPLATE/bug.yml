@@ -1,0 +1,17 @@
+name: Bug report
+description: Something on communitycad.dev doesn't work as it should
+labels: ["bug", "unreviewed"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, and what happened instead. Please don't include anything private.
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: The address of the page, if it's about one page.
+      placeholder: https://communitycad.dev/...

@@ -1,0 +1,11 @@
+name: Feature request
+description: Ask for something new on communitycad.dev
+labels: ["feature", "unreviewed"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What would you like?
+      description: Describe what you'd like and the problem it solves for you.
+    validations:
+      required: true

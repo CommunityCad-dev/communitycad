@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Send feedback from the site
+    url: https://communitycad.dev
+    about: The Feedback button on any page posts here automatically, with the page you were on.
+  - name: Vote on feature requests
+    url: https://communitycad.dev
+    about: Votes on the site help decide what gets built next.
+  - name: Private message
+    url: https://communitycad.dev/contact
+    about: For anything you don't want public, use the Contact form.
